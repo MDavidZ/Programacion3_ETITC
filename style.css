@@ -14,7 +14,9 @@ p{
     text-align: center;
     width: 100%;
 }
-
+::placeholder{
+color: white ;
+}
 .container1{
     text-align: center;
     display: flex;
