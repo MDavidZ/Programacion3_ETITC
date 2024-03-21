@@ -1,0 +1,123 @@
+body{
+    color:white;
+    background: rgb(1, 0, 20);
+    }
+p{
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20% ;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.todo {
+    text-align: center;
+    width: 100%;
+}
+
+.container1{
+    text-align: center;
+    display: flex;
+    padding-left: 8rem;
+    padding-right: 8rem;
+    margin-left:8px;
+    margin-right: 8px;
+}
+.colum1{
+    width: 100%;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+.colum2{
+    width: 150%;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.portada{
+    text-align: right;
+    margin-right: 150px;
+}
+
+.Logoo_img{
+    align-content: right;
+    border-radius: 0.2rem;
+    width: 150px;
+    height: 150px;
+}
+.img {
+border-radius: 1rem;
+width: 500px;
+height: 330px;
+
+}
+.lis{
+    text-align: left;
+    margin-left: 20%;
+    margin-right: 20% ;
+    padding-left: 1rem;
+    padding-right: 1rem;    
+}
+
+.video{
+    border-radius: 1rem;
+    margin-left: 10px;
+    margin-right: 10px;
+ 
+}
+.map{
+    border-radius: 1rem;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.inicio{
+    background:linear-gradient(131deg,#007cf8c5,#589df7c7,#2b00ffb2); 
+   
+width: 25%;
+padding-left:30px ;
+padding-right: 30px;
+padding-top: 10px;
+padding-bottom: 10px;
+border-radius: 10px;
+border: 0;
+
+}
+input{
+    color:white ;
+}
+.btn{
+    background: linear-gradient(131deg,#00c8f8,#4f5dff,#7000fa);
+    padding-left:30px ;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    color:white ;
+    border: 0;
+
+}
+
+.footer-wrapper {
+    background-color:  black;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+.footer_widget {
+    font-size: 20px;
+    margin-bottom: 1.5rem;
+    margin-top:1.5rem;
+}
+
+.footer_widget_titulo {
+    color: rgb(16, 141, 214);
+    margin: 0rem 1rem 1rem 2rem;
+
+}
+
+.footer_widget_texto {
+    margin: 0rem 1rem 1rem 2rem;
+    color: white;
+}
